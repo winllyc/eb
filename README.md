@@ -6,4 +6,6 @@ delay--暂停时间(min,max)min到max的一个随机时间（秒）
 
 disconnectDuration--断网可用时间（秒）
 
+accessIp--外部程序访问的ip地址
+
 del_path--删除文件夹或文件路径
